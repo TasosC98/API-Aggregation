@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIAggregation", "APIAggregation\APIAggregation.csproj", "{504C51EE-28E5-4F1D-A36C-2A02DB8859CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIAggregation.Tests", "APIAggregation.Tests\APIAggregation.Tests.csproj", "{B3F29C61-3CD6-4DBE-A584-BC4C1352A325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{504C51EE-28E5-4F1D-A36C-2A02DB8859CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504C51EE-28E5-4F1D-A36C-2A02DB8859CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504C51EE-28E5-4F1D-A36C-2A02DB8859CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504C51EE-28E5-4F1D-A36C-2A02DB8859CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F29C61-3CD6-4DBE-A584-BC4C1352A325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F29C61-3CD6-4DBE-A584-BC4C1352A325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F29C61-3CD6-4DBE-A584-BC4C1352A325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F29C61-3CD6-4DBE-A584-BC4C1352A325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
